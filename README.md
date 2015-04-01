@@ -321,7 +321,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 *Libraries for working with various layers of the network*
 
 * [dns](https://github.com/miekg/dns) - Go library for working with DNS
-* [gopacket](https://code.google.com/p/gopacket) - A Go library for packet processing with libpacp bindings
+* [gopacket](https://github.com/google/gopacket) - A Go library for packet processing with libpacp bindings
 * [gopcap](https://github.com/akrennmair/gopcap) - A Go wrapper for libpcap
 * [gosnmp](https://github.com/soniah/gosnmp) - Native Go library for performing SNMP actions
 
